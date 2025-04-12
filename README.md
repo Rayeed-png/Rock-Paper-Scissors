@@ -11,6 +11,6 @@
 - When you win a scoreboard will show (player | robot)
 - When either team gets 5 points game stops and the winner is then announced 
 ## How to Run
-    ```bash
-        python Rock_Paper_Scissors.py
-    ```
+```bash
+python Rock_Paper_Scissors.py
+```
