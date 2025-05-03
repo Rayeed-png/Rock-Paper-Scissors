@@ -1,4 +1,4 @@
-# Game of a Classic Game of Rock, Paper, Scissors
+# Game of a Classic Game of Rock, Paper, Scissors (Terminal)
 ## Rules
 - First to 5 points win
 - Rock beats Scissors
@@ -14,3 +14,5 @@
 ```bash
 python Rock_Paper_Scissors.py
 ```
+# Game of a Classic Game of Rock, Paper, Scissors (with interface)
+
